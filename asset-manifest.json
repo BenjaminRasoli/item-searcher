@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/item-searcher/static/css/main.82e45c7d.css",
+    "main.js": "/item-searcher/static/js/main.97f3936b.js",
+    "static/media/growtopia.png": "/item-searcher/static/media/growtopia.7ec6c349bb8c76c90548.png",
+    "index.html": "/item-searcher/index.html",
+    "main.82e45c7d.css.map": "/item-searcher/static/css/main.82e45c7d.css.map",
+    "main.97f3936b.js.map": "/item-searcher/static/js/main.97f3936b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82e45c7d.css",
+    "static/js/main.97f3936b.js"
+  ]
+}
