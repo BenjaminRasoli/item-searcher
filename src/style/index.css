@@ -1,0 +1,90 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  color: white;
+  padding: 0;
+  margin: 0;
+  background-color: #062629;
+}
+
+.infocontainer {
+  margin-top: 140px;
+}
+
+.nameimg {
+  display: flex;
+  align-items: center;
+  font-size: 40px;
+  padding: 10px;
+}
+
+.properties {
+  font-size: 20px;
+  background-color: #0f2d2f;
+  padding: 10px;
+}
+
+.description {
+  font-size: 20px;
+  background-color: #062629;
+  padding: 10px;
+}
+
+.colorcontainer {
+  font-size: 20px;
+  padding: 10px;
+  background-color: #0f2d2f;
+}
+
+.colors {
+  margin-bottom: 40px;
+  width: 90px;
+  height: 90px;
+  border-radius: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.colors1 {
+  margin-bottom: 40px;
+  width: 90px;
+  height: 90px;
+  border-radius: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.rarity {
+  background-color: #062629;
+  padding: 10px;
+}
+
+.type {
+  background-color: #0f2d2f;
+  padding: 10px;
+}
+
+.recipe {
+  background-color: #062629;
+  padding: 10px;
+}
+
+.splice {
+  background-color: #0f2d2f;
+  padding: 10px;
+}
+
+.matches {
+  background-color: #062629;
+  padding: 10px;
+}
+
+.server {
+  background-color: #0f2d2f;
+}

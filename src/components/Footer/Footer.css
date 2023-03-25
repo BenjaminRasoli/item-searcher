@@ -1,0 +1,44 @@
+.footercontainer {
+  height: 260px;
+}
+
+.footercontainer ul {
+  list-style-type: none;
+}
+
+.footercontainer a:hover {
+ opacity: 0.3;
+}
+
+
+.maincontainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  line-height: 2;
+}
+
+.logos {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 20px;
+}
+
+.logos a {
+  padding: 10px;
+  color: white;
+}
+.company {
+  display: flex;
+  justify-content: center;
+}
+
+@media screen and (max-width: 315px) {
+  .maincontainer {
+    flex-direction: column;
+   
+  }
+}
